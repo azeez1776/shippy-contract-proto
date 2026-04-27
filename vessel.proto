@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package vessel;
 
-option go_package = "github.com/azeez1776/shippy/shippy-contract-proto/vessel;vessel";
+option go_package = "github.com/azeez1776/shippy-contract-proto/vessel;vessel";
 
 
 service VesselService {
